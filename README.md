@@ -37,4 +37,4 @@ Content column 1 | Content column 2
 
 
 Github supports emoji!
-:+1: :sparkles: :camel: :tada: :rocket: :metal: :ocyocat:
+:+1: :sparkles: :camel: :tada: :rocket: :metal: :ocyocat: :bike: :car: :pen: :pencil:
