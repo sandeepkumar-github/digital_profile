@@ -2,9 +2,9 @@ sandeep
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        bandarupallisandeep123@gmail.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+EmailID                        bandarupallisandeep123@gmail.com
+Rollno.                          007
+phoneno.                         9994510333
 -------------------     ----------------------------
 
 Education
