@@ -1,8 +1,8 @@
-Johnny Coder
+sandeep 
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
+1 MyAddress                        bandarupallisandeep123@gmail.com
 MyTown 1000                          @twitter_handle
 MyCountry                           1800 my-phone-nr
 -------------------     ----------------------------
